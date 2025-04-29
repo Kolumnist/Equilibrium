@@ -26,10 +26,10 @@
       }
     },
     {
-      "name": "holy-land-adventure",
-      "label": "Holy Land Adventure",
-      "path": "packs/holy-land-adventure",
-      "type": "Adventure",
+      "name": "spells-and-items",
+      "label": "Spells & Items",
+      "path": "packs/spells-and-items",
+      "type": "Item",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -37,26 +37,15 @@
       }
     },
     {
-      "name": "spells-and-items",
-      "label": "Spells & Items",
-      "path": "packs/spells-and-items",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
-    },
-    {
       "name": "races",
       "label": "Races",
       "path": "packs/races",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ]
 }
