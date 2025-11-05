@@ -1,0 +1,8 @@
+2025/07/20-12:27:25.165 372c Recovering log #4
+2025/07/20-12:27:25.172 372c Delete type=0 #4
+2025/07/20-12:27:25.172 372c Delete type=3 #2
+2025/07/20-12:44:07.511 44c0 Level-0 table #9: started
+2025/07/20-12:44:07.511 44c0 Level-0 table #9: 0 bytes OK
+2025/07/20-12:44:07.514 44c0 Delete type=0 #7
+2025/07/20-12:44:07.526 44c0 Manual compaction at level-0 from '!actors!SqSNTZnojF5qEseS' @ 72057594037927935 : 1 .. '!actors.items.effects!sqsxyTmOpmQVZoXH.nUmjHUecRUGtAMQg.eKicwVVKu7UoOQl6' @ 0 : 0; will stop at (end)
+2025/07/20-12:44:07.526 44c0 Manual compaction at level-1 from '!actors!SqSNTZnojF5qEseS' @ 72057594037927935 : 1 .. '!actors.items.effects!sqsxyTmOpmQVZoXH.nUmjHUecRUGtAMQg.eKicwVVKu7UoOQl6' @ 0 : 0; will stop at (end)

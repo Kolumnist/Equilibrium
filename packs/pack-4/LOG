@@ -1,0 +1,8 @@
+2025/10/17-19:22:02.803 27b4 Recovering log #8
+2025/10/17-19:22:02.810 27b4 Delete type=0 #8
+2025/10/17-19:22:02.811 27b4 Delete type=3 #6
+2025/10/17-19:35:34.957 403c Level-0 table #13: started
+2025/10/17-19:35:34.957 403c Level-0 table #13: 0 bytes OK
+2025/10/17-19:35:34.960 403c Delete type=0 #11
+2025/10/17-19:35:34.963 403c Manual compaction at level-0 from '!actors!SqSNTZnojF5qEseS' @ 72057594037927935 : 1 .. '!actors.items.effects!sqsxyTmOpmQVZoXH.nUmjHUecRUGtAMQg.eKicwVVKu7UoOQl6' @ 0 : 0; will stop at (end)
+2025/10/17-19:35:34.963 403c Manual compaction at level-1 from '!actors!SqSNTZnojF5qEseS' @ 72057594037927935 : 1 .. '!actors.items.effects!sqsxyTmOpmQVZoXH.nUmjHUecRUGtAMQg.eKicwVVKu7UoOQl6' @ 0 : 0; will stop at (end)

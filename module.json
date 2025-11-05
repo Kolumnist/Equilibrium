@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "authors": [
     {
@@ -46,7 +46,20 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "pack-4",
+      "label": "Monsters",
+      "path": "packs/pack-4",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
-  "url": "https://github.com/Kolumnist/Equilibrium"
+  "url": "https://github.com/Kolumnist/Equilibrium",
+  "description": "",
+  "flags": {}
 }
